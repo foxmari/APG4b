@@ -2,12 +2,12 @@
 https://atcoder.jp/contests/APG4b
 
 
-# Jupyternotebook　for cpp
-Clingを用いる 
+# Jupyternotebook　for cpp  
+Clingを用いる  
 
-*anacondaを使う場合
-https://github.com/jupyter-xeus/xeus-cling
-conda install xeus-cling -c conda-forge
+*anacondaを使う場合  
+https://github.com/jupyter-xeus/xeus-cling  
+conda install xeus-cling -c conda-forge  
 
 *anaconda ない場合
 https://root.cern.ch/download/cling/  
